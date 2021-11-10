@@ -1,3 +1,9 @@
 1. git inint => permet d'initialiser (dire que git que ce reportoire est un repertoire don on souhaite avoir l'histoire de modification) un repository.
 2. git add nom_du_fichier => permet d'indexer ce fichier
 3. git status permet de voir ;'etat du depot (donne des deails sur les fichier quui sont indexes et les ficiers que ne sont pas encore).
+4. git add . (le point pour ajouter tout les fichiers du dossier
+
+5.git add idnex* (pour ajouter l')
+
+
+6.git commit -
