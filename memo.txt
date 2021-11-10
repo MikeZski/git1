@@ -1,9 +1,14 @@
 1. git inint => permet d'initialiser (dire que git que ce reportoire est un repertoire don on souhaite avoir l'histoire de modification) un repository.
 2. git add nom_du_fichier => permet d'indexer ce fichier
 3. git status permet de voir ;'etat du depot (donne des deails sur les fichier quui sont indexes et les ficiers que ne sont pas encore).
-4. git add . (le point pour ajouter tout les fichiers du dossier
+4. git add . (le point pour ajouter tout les fichiers du dossier)
 
-5.git add idnex* (pour ajouter l')
+5.git add idnex* (pour ajouter l'ensemble des fichiers qui commence par indes)
 
+6.git commit -m "message du commit" => engregistre l'etat du repository a l'instant lui donne un identifiant pour pouvoir revenir sur ce commit plus tard
 
-6.git commit -
+7. git reset --hard numero_du_commit => revienir sur le commit en question
+
+8. get branch => lister les branches
+
+9. git branch nom_de_la_branche => permet de creer une branche (une branche c est une copie exaxte de la branche principale au mement de sa creation)
