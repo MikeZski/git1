@@ -1,0 +1,3 @@
+1. git inint => permet d'initialiser (dire que git que ce reportoire est un repertoire don on souhaite avoir l'histoire de modification) un repository.
+2. git add nom_du_fichier => permet d'indexer ce fichier
+3. git status permet de voir ;'etat du depot (donne des deails sur les fichier quui sont indexes et les ficiers que ne sont pas encore).
